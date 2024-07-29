@@ -1,6 +1,7 @@
 #include <iostream>
 
-int main(int argc, char* argv[])
+
+int main()
 {
     /* Blood types are as follows;
     AA
@@ -10,6 +11,15 @@ int main(int argc, char* argv[])
     AB
     OO
     */
+
+
+
+
+
+
+
+
+
 
     int population, cycles = 0;
     double nAA, nAO, nBB, nBO, nAB, nOO = 0.0;
